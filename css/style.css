@@ -1,0 +1,59 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    font-family: 'Outfit', sans-serif!important;
+    margin: 1.5rem!important;
+    display: flex!important;
+    flex-direction: column!important;
+    align-items: center!important;
+    justify-content: center!important;
+    min-height: 100vh;
+}
+
+.avatar {
+    width: 10%!important;
+}
+
+.fondo {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card-title {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600!important;
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%)!important;
+}
+
+.card-text {
+    color: hsl(215, 51%, 70%);
+    font-size: 1.125rem;
+    font-weight: 300!important;
+}
+
+.price {
+    color: hsl(178, 100%, 50%);
+    font-size: 1.15rem;
+    font-weight: 400!important;
+}
+
+.line-1 {
+    height: 1px;
+    background: hsl(215, 51%, 70%);
+}
+
+.name {
+    color: white;
+    font-size: 1.125rem;
+    font-weight: 300!important;
+}
